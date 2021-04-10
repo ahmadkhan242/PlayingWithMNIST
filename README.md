@@ -15,3 +15,7 @@
 ### Task 3
 * Finally, take the following dataset (https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip), train on this dataset and provide test accuracy on the MNIST test set, using the same test split from part 2. Train using scratch random initialization and using the pretrained network part 1. Do the same analysis as 2 and report what happens this time. Try and do qualitative analysis of what's different in this dataset. Please save your model checkpoints.
 * Conclusion is given in the notebook
+
+### Requirement
+* All tasks were performed using Colab Pro.
+* To reproduce the results, click the colab button on the top of each Notebook.
