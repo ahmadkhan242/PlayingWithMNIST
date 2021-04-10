@@ -20,5 +20,5 @@
 * Conclusion is given in the notebook - [Link](https://github.com/ahmadkhan242/PlayingWithMNIST/blob/main/task3.ipynb)
 
 ### Requirement
-* All tasks were performed using Colab Pro.
+* All tasks were performed using Colab Pro `GPU - Tesla P100-PCIE-16GB`.
 * To reproduce the results, click the colab button on the top of each Notebook.
