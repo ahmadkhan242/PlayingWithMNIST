@@ -16,7 +16,7 @@
 
 ### Task 3
 * Finally, take the following dataset (https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip), train on this dataset and provide test accuracy on the MNIST test set, using the same test split from part 2. Train using scratch random initialization and using the pretrained network part 1. Do the same analysis as 2 and report what happens this time. Try and do qualitative analysis of what's different in this dataset. Please save your model checkpoints.
-* Trained weights - [Link](https://drive.google.com/file/d/1UyggIv0Z-7oeCjhQvsS8Cl8ESITYF_E7/view?usp=sharing)
+* Trained weights of model trained with pre-trained weights - [Link](https://drive.google.com/file/d/1UyggIv0Z-7oeCjhQvsS8Cl8ESITYF_E7/view?usp=sharing)
 * Conclusion is given in the notebook - [Link](https://github.com/ahmadkhan242/PlayingWithMNIST/blob/main/task3.ipynb)
 
 ### Requirement
